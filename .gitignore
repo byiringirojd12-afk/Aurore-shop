@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+offspace*
+
+# SSH keys
+offspace
+offspace.pub
+*.pem
+*.key
+id_*
